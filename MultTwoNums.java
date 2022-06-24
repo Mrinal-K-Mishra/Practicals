@@ -7,8 +7,8 @@
 class MultTwoNums{
 	public static void main(String args[]){
 		
-		int a = 5; //1st number
-		int b = 10; //2nd number
+		int a = 5; //1st number.
+		int b = 10; //2nd number.
 		
 		//output
 		System.out.println("Multiplication of Two Numbers");
