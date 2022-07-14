@@ -20,8 +20,8 @@ public class Staticvariable1 {
    	 public static void main(String[] args) {
    		 Staticvariable1.change();
    	      //creating an objects
-   		Staticvariable1 s1 = new Staticvariable1(10,"Jaita");
-   		 Staticvariable1 s2 = new Staticvariable1(11,"Rupa");
+   		Staticvariable1 s1 = new Staticvariable1(12,"Mrinal");
+   		 Staticvariable1 s2 = new Staticvariable1(13,"Sayan");
    		 //to called method
    		 s1.display();
    		 s2.display();
