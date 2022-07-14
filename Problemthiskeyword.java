@@ -17,8 +17,8 @@ public class Problemthiskeyword {
     public class Problemthiskeyword1{
    	 public static void main(String[] args) {
    		 //creating an object
-   		Problemthiskeyword s1 = new Problemthiskeyword(10,"Jaita",5000);
-   		Problemthiskeyword s2 = new Problemthiskeyword(11,"Rupa",4000);
+   		Problemthiskeyword s1 = new Problemthiskeyword(13,"Mrinal",7000);
+   		Problemthiskeyword s2 = new Problemthiskeyword(15,"Sayan",2000);
    		//to called method
    		 s1.display();
    		 s2.display();
