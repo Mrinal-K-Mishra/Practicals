@@ -8,8 +8,8 @@ public class StringExample {
 		System.out.println(arr);
 	}
 	public void myfunction() {
-		String n ="Jaita";
-		String n1 ="Jaita";
+		String n ="Mrinal";
+		String n1 ="Mrinal";
 		String n2=new String("Jaita");
 	}
 	public static void main(String[] args) {
