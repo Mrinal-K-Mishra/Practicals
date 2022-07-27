@@ -10,7 +10,7 @@ public class StringExample {
 	public void myfunction() {
 		String n ="Mrinal";
 		String n1 ="Mrinal";
-		String n2=new String("Jaita");
+		String n2=new String("Mrinal");
 	}
 	public static void main(String[] args) {
 		StringExample obj=new StringExample();
