@@ -12,8 +12,8 @@ public class Tostring {
 		return super.toString(); //obj to string
 	}
 	public static  void main(String[] args) {
-		Tostring s1 = new Tostring(1,"Jaita","Kolkata"); //return the value
-		Tostring s2 = new Tostring(2,"Arpan","Delhi");
+		Tostring s1 = new Tostring(1,"Mrinal","Mumbai"); //return the value
+		Tostring s2 = new Tostring(2,"Sayan","Delhi");
 		System.out.println(s1);
 		System.out.println(s2);
 	}
