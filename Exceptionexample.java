@@ -5,13 +5,13 @@ public class Exceptionexample {
 		String a = "i am error";
 		System.out.println(a);
 		try {
-			int i = 50/0;
+			int i = 50/0;   //Arithmetic exception
 			System.out.println(i);
 			String s = "riya";
 			System.out.println(s.length());
 			int arr[] = new int [3];
-			arr[4] = 24;
-			int m = Integer.parseInt(s);
+			arr[4] = 24; //array index out of bound exception 
+			int m = Integer.parseInt(s);  // number format exception
 			System.out.println(m);
 		}
 		catch(Exception e) {
