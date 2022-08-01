@@ -7,7 +7,7 @@ public static void myDisplay(int a)	throws ArithmeticException {
 	 throw new ArithmeticException("Value cannot be less than 35");
 	 }
  else {
-	 System.out.println("Yoy are Pass");
+	 System.out.println("You are Pass");
  }
   }
 public static void main(String[] args) {
