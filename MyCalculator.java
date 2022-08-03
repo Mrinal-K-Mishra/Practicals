@@ -1,7 +1,7 @@
 package Exception;
 public class MyCalculator { //class
 	public static void main(String args[]) throws IntegerNumException {
-		System.out.println(power(10,5));
+		System.out.println(power(25,3));
 	}
 	private static long power(int n, int p) throws IntegerNumException{
 		if(n<0 || p<0) {
