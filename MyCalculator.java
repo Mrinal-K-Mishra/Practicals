@@ -1,5 +1,5 @@
 package Exception;
-public class MyCalculator { //class
+public class MyCalculator { 
 	public static void main(String args[]) throws IntegerNumException {
 		System.out.println(power(25,3));
 	}
