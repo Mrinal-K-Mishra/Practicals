@@ -7,7 +7,7 @@ package IOException;
 		public static void main(String args[]) {
 			try {
 				ObjectOutputStream obj = new ObjectOutputStream(new FileOutputStream("C:\\Users\\a\\OneDrive\\text"));
-				obj.writeObject(new Student(1052, "Jaita", 5000));
+				obj.writeObject(new Student(1982, "Mrinal", 8500));
 				obj.close();
 				System.out.println("Done");
 			}catch(Exception e) {
