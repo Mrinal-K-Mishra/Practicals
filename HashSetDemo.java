@@ -22,6 +22,6 @@ public class HashSetDemo {
 		
 		set.removeAll(set1);
 		set.clear();
-		System.out.println("\npresent list:"+set);
+		System.out.println("present list:"+set);
 	}
  }
