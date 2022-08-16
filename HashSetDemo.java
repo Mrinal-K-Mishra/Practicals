@@ -8,7 +8,7 @@ public class HashSetDemo {
 		HashSet<String>set=new HashSet();
 		set.add("ram");
 		set.add("rima");
-		set.add("sayam");
+		set.add("shyam");
 		set.add("rahim");
 		set.add("ramesh");
 		System.out.println("original list:"+set);
