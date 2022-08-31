@@ -6,7 +6,7 @@
 
 class sub{
 	public static void main(String[] args) {
-	int a=10;         // 1rst Number
+	int a=10;         // 1st Number
 	int b=5;          //2nd number
             int c= a-b;        // Substracting 2 nos.
         // output
