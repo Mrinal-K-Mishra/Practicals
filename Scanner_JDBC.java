@@ -29,7 +29,7 @@ public class Scanner_JDBC {                   // main class
 			// register driver step 1
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			// get connection step 2
-			Connection conn = DriverManager.getConnection("jdbc:mysql:localhost:3507/jaita_database","root","adrika@1897*06");
+			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:7098/mrinal_database","root","mri@1996*08");
 			// creating statement
 			PreparedStatement stm;
 			// inserting data in database
