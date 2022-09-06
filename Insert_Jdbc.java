@@ -13,11 +13,11 @@ public class Insert_Jdbc {                 // main class
 			// create a connection
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			// get connection
-			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3507/jaita_database","root","adrika@1897*06");
+			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:7098/mrinal_database","root","mri@1996*08");
 			// create statement
 			Statement stmt = conn.createStatement();
 			// inserting data into database
-			stmt.executeUpdate("insert into customer values('C08','Anwita','Basu')");
+			stmt.executeUpdate("insert into customer values('A07','Sayan','Roy')");
 			System.out.println("Inserted succesfully.");
 			// close the database
 			conn.close();
